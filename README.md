@@ -1,16 +1,20 @@
-## Hi there 👋
+Hello 👋 My name is Prashant Kumar. I am from Indian Institute OF Technology(IIT), Patna pursuing BS-MS in Artificial Intelligence And Cyber Security.
 
-<!--
-**TechAi2025/TechAi2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+<p align="left">
+  <a href="https://github.com/TechAi2025" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prashant-kumar-541394382" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/PRASHANTKUIITP" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" width="40" height="40"/>
+  </a>
+</p>
